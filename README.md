@@ -1,6 +1,6 @@
 ## Olá, meu nome é Brenda Martinez! Bem vindo(a) ao meu github!
 
-- 💻 Desenvolvedora Backend
+- 💻 Desenvolvedora de Software
 - 💡 Programo em C/C++
 - 💞️ Cursando Análise e Desenvolvimento de Sistemas
 
