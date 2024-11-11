@@ -5,8 +5,11 @@
 
 <div align="center">
   <a href="https://github.com/Brenda-Martinez">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Brenda-Martinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Martinez&layout=compact&langs_count=7&theme=dark"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Brenda-Martinez&show_icons=true&hide_rank=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Brenda-Martinez"> 
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-Martinez&layout=compact&theme=dark"/>
+  </a>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">    
